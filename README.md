@@ -1,1 +1,1 @@
-this project is about n gram in my NLP class
+#N-GRAMS PROJECT
