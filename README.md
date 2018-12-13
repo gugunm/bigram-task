@@ -1,2 +1,1 @@
-# fraud-prediction
-Pada program ini, tasknya adalah mencoba untuk memprediksi penipuan pada data asuransi kesehatan
+this project is about n gram in my NLP class
